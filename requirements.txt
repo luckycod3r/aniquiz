@@ -6,6 +6,7 @@ attrs==23.2.0
 backcall==0.2.0
 beautifulsoup4==4.12.3
 bleach==6.1.0
+blinker==1.8.2
 certifi==2024.7.4
 charset-normalizer==3.3.2
 click==8.1.7
@@ -18,12 +19,14 @@ executing==2.0.1
 fastapi==0.111.0
 fastapi-cli==0.0.4
 fastjsonschema==2.20.0
+Flask==3.0.3
 h11==0.14.0
 httpcore==1.0.5
 httptools==0.6.1
 httpx==0.27.0
 idna==3.7
 ipython==8.12.3
+itsdangerous==2.2.0
 jedi==0.19.1
 Jinja2==3.1.4
 jsonschema==4.22.0
@@ -87,4 +90,5 @@ watchfiles==0.22.0
 wcwidth==0.2.13
 webencodings==0.5.1
 websockets==12.0
+Werkzeug==3.0.3
 yarg==0.1.9
